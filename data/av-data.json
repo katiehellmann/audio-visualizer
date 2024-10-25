@@ -1,0 +1,36 @@
+{
+    "appTitle": "Chappell Roan Audio Visualizer",
+    "audioTracks": [
+        {
+            "title": "After Midnight",
+            "artist": "Chappell Roan",
+            "file": "media/after-midnight.mp3",
+            "duration": "3:24"
+        },
+        {
+            "title": "California",
+            "artist": "Chappell Roan",
+            "file": "media/california.mp3",
+            "duration": "3:18"
+        },
+        {
+            "title": "HOT TO GO!",
+            "artist": "Chappell Roan",
+            "file": "media/hot-to-go.mp3",
+            "duration": "3:04"
+        }
+    ],
+    "startingState": {
+        "volume": 1,
+        "bass": 0,
+        "treble": 0,
+        "visualization": "frequency",
+        "showGradient": true,
+        "showBars": true,
+        "showCircles": true,
+        "showNoise": false,
+        "showInvert": false,
+        "showEmboss": false
+    }
+
+}
